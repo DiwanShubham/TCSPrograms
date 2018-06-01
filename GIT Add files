@@ -1,0 +1,18 @@
+git config –global user.name “DiwanShubham”
+git config –global user.email “shubhamsdiwan1993@gmail.com”
+
+Go to the folder
+git init
+git remote add origin  https://github.com/your_username/myproject.git
+git add number.c
+
+
+
+
+Adding files to the existing folder
+git add .
+git commit -m "Add existing file"
+git push origin your-branch
+
+
+
