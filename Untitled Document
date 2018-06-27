@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+
+int main()
+{
+	int range=20;
+	int i;
+
+	for(i=1;i<=range; i++)
+	{
+		
+	}
+
+	return 0;
+}
